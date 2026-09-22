@@ -1,0 +1,794 @@
+Customer_ID,Customer_Name,Segment,Region,recency_days,total_orders,total_revenue,R_score,F_score,M_score,RFM_score,RFM_Segment
+AA-10315,Alex Avila,Consumer,Central,184,5,5090484,2,2,5,225,Lost / Hibernating
+AA-10375,Allen Armold,Consumer,West,19,9,165678,5,5,1,551,Needs Attention
+AA-10480,Andrew Allen,Consumer,South,259,4,193048,1,1,1,111,Lost / Hibernating
+AA-10645,Anna Andreadi,Consumer,East,55,6,1737756,3,3,4,334,Loyal
+AB-10015,Aaron Bergman,Consumer,West,415,3,143818,1,1,1,111,Lost / Hibernating
+AB-10060,Adam Bellavance,Home Office,East,54,8,5110574,3,4,5,345,Loyal
+AB-10105,Adrian Barton,Consumer,West,41,10,2898788,4,5,5,455,Champions
+AB-10150,Aimee Bixby,Consumer,East,41,5,280163,4,2,2,422,New / Promising
+AB-10165,Alan Barnes,Consumer,West,25,8,397663,5,4,2,542,Needs Attention
+AB-10255,Alejandro Ballentine,Home Office,East,166,9,583602,2,5,2,252,At-Risk
+AB-10600,Ann Blume,Corporate,West,50,4,1494514,4,1,4,414,New / Promising
+AC-10420,Alyssa Crouse,Corporate,West,232,3,779856,1,1,3,113,Lost / Hibernating
+AC-10450,Amy Cox,Consumer,Central,11,7,1285192,5,3,4,534,Loyal
+AC-10615,Ann Chong,Corporate,East,6,5,625708,5,2,2,522,New / Promising
+AC-10660,Anna Chung,Consumer,Central,282,5,625024,1,2,2,122,Lost / Hibernating
+AD-10180,Alan Dominguez,Home Office,Central,29,8,1197155,4,4,4,444,Champions
+AF-10870,Art Ferguson,Consumer,Central,41,7,680012,4,3,3,433,Loyal
+AF-10885,Art Foster,Consumer,South,415,4,493735,1,1,2,112,Lost / Hibernating
+AG-10270,Alejandro Grove,Consumer,West,278,5,226563,1,2,1,121,Lost / Hibernating
+AG-10300,Aleksandra Gannaway,Corporate,West,118,4,53214,2,1,1,211,Lost / Hibernating
+AG-10330,Alex Grayson,Consumer,West,8,5,77502,5,2,1,521,New / Promising
+AG-10390,Allen Goldenen,Consumer,East,114,5,52508,2,2,1,221,Lost / Hibernating
+AG-10495,Andrew Gjertsen,Corporate,East,78,7,785557,3,3,3,333,Loyal
+AG-10525,Andy Gerbode,Corporate,South,844,4,749681,1,1,3,113,Lost / Hibernating
+AG-10675,Anna Gayman,Consumer,Central,97,7,24906012,3,3,5,335,Loyal
+AG-10765,Anthony Garverick,Home Office,East,77,4,48949,3,1,1,311,Needs Attention
+AG-10900,Arthur Gainer,Consumer,West,96,10,2476212,3,5,5,355,Loyal
+AH-10030,Aaron Hawkins,Corporate,East,12,7,464630,5,3,2,532,Needs Attention
+AH-10075,Adam Hart,Corporate,East,34,10,2343506,4,5,5,455,Champions
+AH-10120,Adrian Hane,Home Office,West,60,7,559349,3,3,2,332,Needs Attention
+AH-10195,Alan Haines,Corporate,South,55,4,707693,3,1,3,313,Needs Attention
+AH-10210,Alan Hwang,Consumer,West,6,9,476065,5,5,2,552,Needs Attention
+AH-10465,Amy Hunt,Consumer,East,230,5,13672749,1,2,5,125,Lost / Hibernating
+AH-10585,Angele Hood,Consumer,Central,21,4,85050,5,1,1,511,New / Promising
+AH-10690,Anna Häberlin,Corporate,East,410,12,2616481,1,5,5,155,At-Risk High Value
+AI-10855,Arianne Irving,Consumer,East,13,10,729058,5,5,3,553,Loyal
+AJ-10780,Anthony Jacobs,Corporate,South,75,7,2037924,3,3,5,335,Loyal
+AJ-10795,Anthony Johnson,Corporate,South,166,7,2608313,2,3,5,235,At-Risk
+AJ-10945,Ashley Jarboe,Consumer,South,121,6,191779,2,3,1,231,At-Risk
+AJ-10960,Astrea Jones,Consumer,East,74,3,94828,3,1,1,311,Needs Attention
+AM-10360,Alice McCarthy,Corporate,Central,28,5,216034,4,2,1,421,New / Promising
+AM-10705,Anne McFarland,Consumer,South,162,8,742669,2,4,3,243,At-Risk
+AO-10810,Anthony O'Donnell,Corporate,West,501,1,16128,1,1,1,111,Lost / Hibernating
+AP-10720,Anne Pryor,Home Office,East,41,6,226657,4,3,1,431,Needs Attention
+AP-10915,Arthur Prichep,Consumer,South,98,10,1015605,3,5,3,353,Loyal
+AR-10345,Alex Russell,Corporate,East,111,4,957954,2,1,3,213,Lost / Hibernating
+AR-10405,Allen Rosenblatt,Corporate,East,125,5,1780827,2,2,4,224,Lost / Hibernating
+AR-10510,Andrew Roberts,Consumer,East,14,5,120711,5,2,1,521,New / Promising
+AR-10540,Andy Reiter,Consumer,East,6,6,1236816,5,3,4,534,Loyal
+AR-10570,Anemone Ratner,Consumer,South,534,1,5539,1,1,1,111,Lost / Hibernating
+AR-10825,Anthony Rawles,Corporate,West,58,8,2959055,3,4,5,345,Loyal
+AS-10045,Aaron Smayling,Corporate,South,88,7,2257567,3,3,5,335,Loyal
+AS-10090,Adam Shillingsburg,Consumer,South,28,9,1970668,4,5,4,454,Champions
+AS-10135,Adrian Shami,Home Office,East,41,2,5882,4,1,1,411,New / Promising
+AS-10225,Alan Schoenberger,Corporate,East,22,5,450796,5,2,2,522,New / Promising
+AS-10240,Alan Shonely,Consumer,South,192,5,421231,2,2,2,222,Lost / Hibernating
+AS-10285,Alejandro Savely,Corporate,West,19,6,568434,5,3,2,532,Needs Attention
+AS-10630,Ann Steele,Home Office,Central,92,7,271051,3,3,2,332,Needs Attention
+AT-10435,Alyssa Tate,Home Office,West,21,5,907691,5,2,3,523,New / Promising
+AT-10735,Annie Thurman,Consumer,West,13,10,622239,5,5,2,552,Needs Attention
+AW-10840,Anthony Witt,Consumer,Central,20,4,255428,5,1,2,512,New / Promising
+AW-10930,Arthur Wiediger,Home Office,Central,46,7,1469542,4,3,4,434,Loyal
+AY-10555,Andy Yotov,Corporate,West,14,4,278071,5,1,2,512,New / Promising
+AZ-10750,Annie Zypern,Consumer,East,160,6,1350182,2,3,4,234,At-Risk
+BB-10990,Barry Blumstein,Corporate,West,105,5,438232,2,2,2,222,Lost / Hibernating
+BB-11545,Brenda Bowman,Corporate,Central,28,9,1728860,4,5,4,454,Champions
+BC-11125,Becky Castell,Home Office,West,202,9,2154546,2,5,5,255,At-Risk High Value
+BD-11320,Bill Donatelli,Consumer,West,33,12,2408861,4,5,5,455,Champions
+BD-11500,Bradley Drucker,Consumer,Central,35,6,1032319,4,3,3,433,Loyal
+BD-11560,Brendan Dodson,Home Office,West,278,2,32054,1,1,1,111,Lost / Hibernating
+BD-11605,Brian Dahlen,Consumer,East,97,6,922619,3,3,3,333,Loyal
+BD-11620,Brian DeCherney,Consumer,West,69,6,1014247,3,3,3,333,Loyal
+BD-11635,Brian Derr,Consumer,South,9,3,178501,5,1,1,511,New / Promising
+BD-11725,Bruce Degenhardt,Consumer,South,93,6,152650,3,3,1,331,Needs Attention
+BD-11770,Bryan Davis,Consumer,Central,327,6,449045,1,3,2,132,At-Risk
+BE-11335,Bill Eplett,Home Office,Central,119,5,322337,2,2,2,222,Lost / Hibernating
+BE-11410,Bobby Elias,Consumer,East,98,5,495179,3,2,2,322,Needs Attention
+BE-11455,Brad Eason,Home Office,Central,481,5,172062,1,2,1,121,Lost / Hibernating
+BF-10975,Barbara Fisher,Corporate,South,91,7,208991,3,3,1,331,Needs Attention
+BF-11005,Barry Franz,Home Office,West,39,4,959813,4,1,3,413,New / Promising
+BF-11020,Barry Französisch,Corporate,Central,74,8,1589977,3,4,4,344,Loyal
+BF-11080,Bart Folk,Consumer,East,25,3,21760,5,1,1,511,New / Promising
+BF-11170,Ben Ferrer,Home Office,West,16,11,2787105,5,5,5,555,Champions
+BF-11215,Benjamin Farhat,Home Office,West,65,4,327061,3,1,2,312,Needs Attention
+BF-11275,Beth Fritzler,Corporate,West,57,3,754271,3,1,3,313,Needs Attention
+BG-11035,Barry Gonzalez,Consumer,South,28,8,1992242,4,4,5,445,Champions
+BG-11695,Brooke Gillingham,Corporate,East,36,6,1742592,4,3,4,434,Loyal
+BG-11740,Bruce Geld,Consumer,East,57,6,611274,3,3,2,332,Needs Attention
+BH-11710,Brosina Hoffman,Consumer,West,23,8,4741353,5,4,5,545,Champions
+BK-11260,Berenike Kampe,Consumer,East,77,6,126068,3,3,1,331,Needs Attention
+BM-11140,Becky Martin,Consumer,Central,307,4,9134567,1,1,5,115,Lost / Hibernating
+BM-11575,Brendan Murry,Corporate,East,100,6,392119,3,3,2,332,Needs Attention
+BM-11650,Brian Moss,Corporate,East,33,11,1415241,4,5,4,454,Champions
+BM-11785,Bryan Mills,Consumer,East,218,10,1192754,2,5,4,254,At-Risk High Value
+BN-11470,Brad Norvell,Corporate,South,24,4,105528,5,1,1,511,New / Promising
+BN-11515,Bradley Nguyen,Consumer,West,9,5,110955,5,2,1,521,New / Promising
+BO-11350,Bill Overfelt,Corporate,West,137,5,563516,2,2,2,222,Lost / Hibernating
+BO-11425,Bobby Odegard,Consumer,South,75,2,13083,3,1,1,311,Needs Attention
+BP-11050,Barry Pond,Corporate,East,83,5,44477,3,2,1,321,Needs Attention
+BP-11095,Bart Pistole,Corporate,Central,17,12,869519,5,5,3,553,Loyal
+BP-11155,Becky Pak,Consumer,South,89,6,209468,3,3,1,331,Needs Attention
+BP-11185,Ben Peterman,Corporate,West,1,9,2118528,5,5,5,555,Champions
+BP-11230,Benjamin Patterson,Consumer,West,39,5,118149,4,2,1,421,New / Promising
+BP-11290,Beth Paige,Consumer,Central,12,7,1737733,5,3,4,534,Loyal
+BS-11365,Bill Shonely,Corporate,East,558,5,1845660,1,2,4,124,Lost / Hibernating
+BS-11380,Bill Stewart,Corporate,Central,28,5,2675588,4,2,5,425,New / Promising
+BS-11590,Brendan Sweed,Corporate,West,35,6,1422601,4,3,4,434,Loyal
+BS-11665,Brian Stugart,Consumer,East,582,3,2145596,1,1,5,115,Lost / Hibernating
+BS-11755,Bruce Stewart,Consumer,West,1,7,1296496,5,3,4,534,Loyal
+BS-11800,Bryan Spruell,Home Office,East,265,2,77699,1,1,1,111,Lost / Hibernating
+BT-11305,Beth Thompson,Home Office,West,336,5,261001,1,2,2,122,Lost / Hibernating
+BT-11395,Bill Tyler,Corporate,Central,302,6,838116,1,3,3,133,At-Risk
+BT-11440,Bobby Trafton,Consumer,West,560,4,512841,1,1,2,112,Lost / Hibernating
+BT-11485,Brad Thomas,Home Office,East,659,2,66221,1,1,1,111,Lost / Hibernating
+BT-11530,Bradley Talbott,Home Office,West,91,5,2001554,3,2,5,325,Needs Attention
+BT-11680,Brian Thompson,Consumer,East,20,7,375882,5,3,2,532,Needs Attention
+BV-11245,Benjamin Venier,Corporate,Central,334,5,795119,1,2,3,123,Lost / Hibernating
+BW-11065,Barry Weirich,Consumer,South,212,3,372358,2,1,2,212,Lost / Hibernating
+BW-11110,Bart Watters,Corporate,Central,121,8,4190918,2,4,5,245,At-Risk High Value
+BW-11200,Ben Wallace,Consumer,South,203,6,1316657,2,3,4,234,At-Risk
+CA-11965,Carol Adams,Corporate,South,96,6,4047211,3,3,5,335,Loyal
+CA-12055,Cathy Armstrong,Home Office,Central,401,5,1020042,1,2,3,123,Lost / Hibernating
+CA-12265,Christina Anderson,Consumer,Central,56,8,3730506,3,4,5,345,Loyal
+CA-12310,Christine Abelman,Corporate,East,13,4,212597,5,1,1,511,New / Promising
+CA-12775,Cynthia Arntzen,Consumer,South,120,7,1836484,2,3,4,234,At-Risk
+CB-12025,Cassandra Brandow,Consumer,East,47,9,2825073,4,5,5,455,Champions
+CB-12415,Christy Brittain,Consumer,East,26,8,1605193,5,4,4,544,Champions
+CB-12535,Claudia Bergmann,Corporate,South,197,8,6231284,2,4,5,245,At-Risk High Value
+CC-12100,Chad Cunningham,Home Office,Central,457,5,975078,1,2,3,123,Lost / Hibernating
+CC-12145,Charles Crestani,Consumer,West,106,7,2054311,2,3,5,235,At-Risk
+CC-12220,Chris Cortes,Consumer,Central,20,11,1512076,5,5,4,554,Champions
+CC-12370,Christopher Conant,Consumer,South,43,5,9361086,4,2,5,425,New / Promising
+CC-12430,Chuck Clark,Home Office,Central,0,10,1162147,5,5,4,554,Champions
+CC-12475,Cindy Chapman,Consumer,East,39,9,193725,4,5,1,451,Needs Attention
+CC-12550,Clay Cheatham,Consumer,West,27,3,73008,4,1,1,411,New / Promising
+CC-12610,Corey Catlett,Corporate,East,34,7,909822,4,3,3,433,Loyal
+CC-12670,Craig Carreira,Consumer,East,29,7,10045850,4,3,5,435,Loyal
+CC-12685,Craig Carroll,Consumer,South,798,4,1528028,1,1,4,114,Lost / Hibernating
+CD-11920,Carlos Daly,Consumer,West,40,5,366727,4,2,2,422,New / Promising
+CD-11980,Carol Darley,Consumer,Central,54,3,352702,3,1,2,312,Needs Attention
+CD-12280,Christina DeMoss,Consumer,West,42,2,377863,4,1,2,412,New / Promising
+CD-12790,Cynthia Delaney,Home Office,West,399,5,748656,1,2,3,123,Lost / Hibernating
+CG-12040,Catherine Glotzbach,Home Office,East,49,6,790645,4,3,3,433,Loyal
+CG-12520,Claire Gute,Consumer,South,338,3,237926,1,1,1,111,Lost / Hibernating
+CH-12070,Cathy Hwang,Home Office,South,690,3,1240335,1,1,4,114,Lost / Hibernating
+CJ-11875,Carl Jackson,Corporate,East,365,1,1652,1,1,1,111,Lost / Hibernating
+CJ-12010,Caroline Jumper,Consumer,West,189,8,4659540,2,4,5,245,At-Risk High Value
+CK-12205,Chloris Kastensmidt,Consumer,East,39,13,2405776,4,5,5,455,Champions
+CK-12325,Christine Kargatis,Home Office,West,120,5,429497,2,2,2,222,Lost / Hibernating
+CK-12595,Clytie Kelty,Consumer,East,43,11,555569,4,5,2,452,Needs Attention
+CK-12760,Cyma Kinney,Corporate,East,82,9,519776,3,5,2,352,Needs Attention
+CL-11890,Carl Ludwig,Consumer,East,106,4,273427,2,1,2,212,Lost / Hibernating
+CL-12565,Clay Ludtke,Consumer,Central,284,12,2733152,1,5,5,155,At-Risk High Value
+CL-12700,Craig Leslie,Home Office,Central,260,4,710303,1,1,3,113,Lost / Hibernating
+CM-11815,Candace McMahon,Corporate,Central,131,6,839264,2,3,3,233,At-Risk
+CM-11935,Carlos Meador,Consumer,South,707,2,533784,1,1,2,112,Lost / Hibernating
+CM-12115,Chad McGuire,Consumer,East,8,4,166161,5,1,1,511,New / Promising
+CM-12160,Charles McCrossin,Consumer,Central,26,6,620940,5,3,2,532,Needs Attention
+CM-12190,Charlotte Melton,Consumer,East,8,6,322766,5,3,2,532,Needs Attention
+CM-12235,Chris McAfee,Consumer,Central,385,5,1526348,1,2,4,124,Lost / Hibernating
+CM-12385,Christopher Martinez,Consumer,South,37,4,2921410,4,1,5,415,New / Promising
+CM-12445,Chuck Magee,Consumer,West,436,3,140498,1,1,1,111,Lost / Hibernating
+CM-12655,Corinna Mitchell,Home Office,West,27,5,1676780,4,2,4,424,New / Promising
+CM-12715,Craig Molinari,Corporate,Central,1034,4,14798847,1,1,5,115,Lost / Hibernating
+CP-12085,Cathy Prescott,Corporate,East,82,8,954958,3,4,3,343,Loyal
+CP-12340,Christine Phan,Corporate,East,160,7,4842397,2,3,5,235,At-Risk
+CR-12580,Clay Rozendal,Home Office,Central,57,4,1946262,3,1,4,314,Needs Attention
+CR-12625,Corey Roper,Home Office,East,470,3,21562,1,1,1,111,Lost / Hibernating
+CR-12730,Craig Reiter,Consumer,East,78,4,683891,3,1,3,313,Needs Attention
+CR-12820,Cyra Reiten,Home Office,East,85,3,1416047,3,1,4,314,Needs Attention
+CS-11845,Cari Sayre,Corporate,West,91,5,1113723,3,2,4,324,Needs Attention
+CS-11860,Cari Schnelling,Consumer,South,162,6,513818,2,3,2,232,At-Risk
+CS-11950,Carlos Soltero,Consumer,Central,25,11,2625787,5,5,5,555,Champions
+CS-12130,Chad Sievert,Consumer,West,489,4,484320,1,1,2,112,Lost / Hibernating
+CS-12175,Charles Sheldon,Corporate,South,232,5,100968,1,2,1,121,Lost / Hibernating
+CS-12250,Chris Selesnick,Corporate,South,26,12,536553,5,5,2,552,Needs Attention
+CS-12355,Christine Sundaresam,Consumer,South,6,11,1295926,5,5,4,554,Champions
+CS-12400,Christopher Schild,Home Office,Central,2,9,8447918,5,5,5,555,Champions
+CS-12460,Chuck Sachs,Consumer,South,27,2,68226,4,1,1,411,New / Promising
+CS-12490,Cindy Schnelling,Corporate,Central,424,4,6018296,1,1,5,115,Lost / Hibernating
+CS-12505,Cindy Stewart,Consumer,South,58,6,5076489,3,3,5,335,Loyal
+CT-11995,Carol Triggs,Consumer,Central,96,8,1608110,3,4,4,344,Loyal
+CV-12295,Christina VanderZanden,Consumer,West,254,5,1115624,1,2,4,124,Lost / Hibernating
+CV-12805,Cynthia Voltz,Corporate,East,5,9,4035688,5,5,5,555,Champions
+CW-11905,Carl Weiss,Home Office,Central,22,6,252468,5,3,2,532,Needs Attention
+CY-12745,Craig Yedwab,Corporate,West,60,7,925054,3,4,3,343,Loyal
+Co-12640,Corey-Lock,Consumer,East,549,5,99683,1,2,1,121,Lost / Hibernating
+DA-13450,Dianna Arnett,Home Office,Central,352,4,72484,1,1,1,111,Lost / Hibernating
+DB-12910,Daniel Byrd,Home Office,South,21,8,1191013,5,4,4,544,Champions
+DB-12970,Darren Budd,Corporate,West,241,4,2331942,1,1,5,115,Lost / Hibernating
+DB-13060,Dave Brooks,Consumer,West,16,6,1387250,5,3,4,534,Loyal
+DB-13120,David Bremer,Corporate,West,48,7,563452,4,4,2,442,Needs Attention
+DB-13210,Dean Braden,Consumer,Central,9,10,1549820,5,5,4,554,Champions
+DB-13270,Deborah Brumfield,Home Office,West,53,8,1493450,4,4,4,444,Champions
+DB-13360,Dennis Bolton,Home Office,East,264,5,584144,1,2,2,122,Lost / Hibernating
+DB-13405,Denny Blanton,Consumer,Central,187,4,235314,2,1,1,211,Lost / Hibernating
+DB-13555,Dorothy Badders,Corporate,South,107,7,7489325,2,4,5,245,At-Risk High Value
+DB-13615,Doug Bickford,Consumer,West,33,7,1234157,4,4,4,444,Champions
+DB-13660,Duane Benoit,Consumer,East,12,7,807307,5,4,3,543,Loyal
+DC-12850,Dan Campbell,Consumer,South,37,9,3009603,4,5,5,455,Champions
+DC-13285,Debra Catini,Consumer,Central,23,5,922096,5,2,3,523,New / Promising
+DD-13570,Dorothy Dickinson,Consumer,Central,41,6,143821,4,3,1,431,Needs Attention
+DE-13255,Deanra Eno,Home Office,East,718,5,216886,1,2,1,121,Lost / Hibernating
+DF-13135,David Flashing,Consumer,West,699,3,1566314,1,1,4,114,Lost / Hibernating
+DG-13300,Deirdre Greer,Corporate,East,32,5,1249901,4,2,4,424,New / Promising
+DH-13075,Dave Hallsten,Corporate,South,277,5,477688,1,2,2,122,Lost / Hibernating
+DH-13675,Duane Huffman,Home Office,East,775,4,831911,1,1,3,113,Lost / Hibernating
+DJ-13420,Denny Joy,Corporate,South,637,4,70311,1,1,1,111,Lost / Hibernating
+DJ-13510,Don Jones,Corporate,South,48,8,1866612,4,4,4,444,Champions
+DJ-13630,Doug Jacobs,Consumer,East,12,3,1657810,5,1,4,514,New / Promising
+DK-12835,Damala Kotsonis,Corporate,West,21,12,607438,5,5,2,552,Needs Attention
+DK-12895,Dana Kaydos,Consumer,Central,45,5,1361028,4,2,4,424,New / Promising
+DK-12985,Darren Koutras,Consumer,South,7,5,358559,5,2,2,522,New / Promising
+DK-13090,Dave Kipp,Consumer,West,42,7,1731225,4,4,4,444,Champions
+DK-13150,David Kendrick,Corporate,Central,10,2,490113,5,1,2,512,New / Promising
+DK-13225,Dean Katz,Corporate,East,10,9,1719840,5,5,4,554,Champions
+DK-13375,Dennis Kane,Consumer,East,19,8,635064,5,4,2,542,Needs Attention
+DL-12865,Dan Lawera,Consumer,East,100,7,237069,3,4,1,341,Needs Attention
+DL-12925,Daniel Lacy,Consumer,West,57,6,304090,3,3,2,332,Needs Attention
+DL-13315,Delfina Latchford,Consumer,East,22,8,467673,5,4,2,542,Needs Attention
+DL-13330,Denise Leinenbach,Consumer,West,57,4,71759,3,1,1,311,Needs Attention
+DL-13495,Dionis Lloyd,Corporate,West,76,8,1868166,3,4,4,344,Loyal
+DM-12955,Dario Medina,Corporate,Central,114,7,1123755,2,4,4,244,At-Risk High Value
+DM-13015,Darrin Martin,Consumer,West,57,7,2086816,3,4,5,345,Loyal
+DM-13345,Denise Monton,Corporate,South,22,8,996859,5,4,3,543,Loyal
+DM-13525,Don Miller,Corporate,Central,481,3,346040,1,1,2,112,Lost / Hibernating
+DN-13690,Duane Noonan,Consumer,West,217,7,169681,2,4,1,241,At-Risk
+DO-13435,Denny Ordway,Consumer,South,133,9,4130482,2,5,5,255,At-Risk High Value
+DO-13645,Doug O'Connell,Consumer,West,26,7,540890,5,4,2,542,Needs Attention
+DP-13000,Darren Powers,Consumer,Central,126,8,213137,2,4,1,241,At-Risk
+DP-13105,Dave Poirier,Corporate,West,6,8,1967925,5,4,4,544,Champions
+DP-13165,David Philippe,Consumer,East,811,2,113076,1,1,1,111,Lost / Hibernating
+DP-13390,Dennis Pardue,Home Office,Central,358,9,5001375,1,5,5,155,At-Risk High Value
+DR-12880,Dan Reichenbach,Corporate,Central,3,9,3614005,5,5,5,555,Champions
+DR-12940,Daniel Raglin,Home Office,East,50,8,1642889,4,4,4,444,Champions
+DS-13030,Darrin Sayre,Home Office,West,93,4,890635,3,1,3,313,Needs Attention
+DS-13180,David Smith,Corporate,Central,23,9,3713897,5,5,5,555,Champions
+DV-13045,Darrin Van Huff,Corporate,West,19,5,1066374,5,2,3,523,New / Promising
+DV-13465,Dianna Vittorini,Consumer,West,29,5,1492791,4,2,4,424,New / Promising
+DW-13195,David Wiener,Corporate,Central,69,6,398758,3,3,2,332,Needs Attention
+DW-13480,Dianna Wilson,Home Office,Central,217,5,1317658,2,2,4,224,Lost / Hibernating
+DW-13540,Don Weiss,Consumer,West,98,5,122392,3,2,1,321,Needs Attention
+DW-13585,Dorothy Wardle,Corporate,East,242,7,400416,1,4,2,142,At-Risk
+Dl-13600,Dorris liebe,Corporate,Central,119,5,679462,2,2,3,223,Lost / Hibernating
+Dp-13240,Dean percer,Home Office,West,84,11,3834534,3,5,5,355,Loyal
+EA-14035,Erin Ashbrook,Corporate,South,152,12,1057750,2,5,3,253,At-Risk
+EB-13705,Ed Braxton,Corporate,East,48,9,3610508,4,5,5,455,Champions
+EB-13750,Edward Becker,Corporate,West,35,10,2049043,4,5,5,455,Champions
+EB-13840,Ellis Ballard,Corporate,West,90,4,660446,3,1,3,313,Needs Attention
+EB-13870,Emily Burns,Consumer,West,100,10,1785796,3,5,4,354,Loyal
+EB-13930,Eric Barreto,Consumer,West,161,5,584672,2,2,2,222,Lost / Hibernating
+EB-13975,Erica Bern,Corporate,West,0,4,1063043,5,1,3,513,New / Promising
+EB-14110,Eugene Barchas,Consumer,East,113,6,2261540,2,3,5,235,At-Risk
+EB-14170,Evan Bailliet,Consumer,South,82,6,142191,3,3,1,331,Needs Attention
+EC-14050,Erin Creighton,Consumer,East,53,5,51127,4,2,1,421,New / Promising
+ED-13885,Emily Ducich,Home Office,West,135,8,2783487,2,4,5,245,At-Risk High Value
+EG-13900,Emily Grady,Consumer,East,22,5,1237156,5,2,4,524,New / Promising
+EH-13765,Edward Hooks,Corporate,East,135,10,1687353,2,5,4,254,At-Risk High Value
+EH-13945,Eric Hoffmann,Consumer,West,217,8,345348,2,4,2,242,At-Risk
+EH-13990,Erica Hackney,Consumer,South,405,6,621902,1,3,2,132,At-Risk
+EH-14005,Erica Hernandez,Home Office,West,2,7,628356,5,4,2,542,Needs Attention
+EH-14125,Eugene Hildebrand,Home Office,Central,152,10,2173473,2,5,5,255,At-Risk High Value
+EH-14185,Evan Henry,Consumer,South,105,6,761047,2,3,3,233,At-Risk
+EJ-13720,Ed Jacobs,Consumer,West,302,4,800708,1,1,3,113,Lost / Hibernating
+EJ-14155,Eva Jacobs,Consumer,South,57,5,1116980,3,2,4,324,Needs Attention
+EK-13795,Eileen Kiefer,Home Office,West,44,4,148220,4,1,1,411,New / Promising
+EL-13735,Ed Ludwig,Home Office,East,77,2,12428,3,1,1,311,Needs Attention
+EM-13810,Eleni McCrary,Corporate,West,132,5,2354025,2,2,5,225,Lost / Hibernating
+EM-13825,Elizabeth Moffitt,Corporate,Central,55,8,675840,3,4,3,343,Loyal
+EM-13960,Eric Murdock,Consumer,East,151,5,191348,2,2,1,221,Lost / Hibernating
+EM-14065,Erin Mull,Consumer,East,47,4,69555,4,1,1,411,New / Promising
+EM-14095,Eudokia Martin,Corporate,West,113,4,442461,2,1,2,212,Lost / Hibernating
+EM-14140,Eugene Moren,Home Office,West,48,6,1207874,4,3,4,434,Loyal
+EM-14200,Evan Minnotte,Home Office,South,158,3,315513,2,1,2,212,Lost / Hibernating
+EN-13780,Edward Nazzal,Consumer,East,287,4,356958,1,1,2,112,Lost / Hibernating
+EP-13915,Emily Phan,Consumer,Central,12,17,11809730,5,5,5,555,Champions
+ER-13855,Elpida Rittenbach,Corporate,Central,421,3,308159,1,1,2,112,Lost / Hibernating
+ES-14020,Erica Smith,Consumer,West,40,5,3265973,4,2,5,425,New / Promising
+ES-14080,Erin Smith,Corporate,South,28,9,1059877,4,5,3,453,Loyal
+FA-14230,Frank Atkinson,Corporate,West,97,7,1249754,3,4,4,344,Loyal
+FC-14245,Frank Carlisle,Home Office,East,70,7,822836,3,4,3,343,Loyal
+FC-14335,Fred Chung,Corporate,Central,184,7,1483288,2,4,4,244,At-Risk High Value
+FG-14260,Frank Gastineau,Home Office,West,34,7,571605,4,4,2,442,Needs Attention
+FH-14275,Frank Hawley,Corporate,Central,37,10,2462329,4,5,5,455,Champions
+FH-14350,Fred Harton,Consumer,West,212,4,401021,2,1,2,212,Lost / Hibernating
+FH-14365,Fred Hopkins,Corporate,East,5,8,923662,5,4,3,543,Loyal
+FM-14215,Filia McAdams,Corporate,East,7,10,419560,5,5,2,552,Needs Attention
+FM-14290,Frank Merwin,Home Office,West,36,9,409600,4,5,2,452,Needs Attention
+FM-14380,Fred McMath,Consumer,West,145,9,1188719,2,5,4,254,At-Risk High Value
+FO-14305,Frank Olsen,Consumer,East,38,10,1083872,4,5,3,453,Loyal
+FP-14320,Frank Preis,Consumer,West,23,8,3329338,5,4,5,545,Champions
+FW-14395,Fred Wasserman,Corporate,South,362,3,4051,1,1,1,111,Lost / Hibernating
+GA-14515,George Ashbrook,Consumer,West,149,5,1143078,2,2,4,224,Lost / Hibernating
+GA-14725,Guy Armstrong,Consumer,East,5,11,484783,5,5,2,552,Needs Attention
+GB-14530,George Bell,Corporate,East,62,11,523234,3,5,2,352,Needs Attention
+GB-14575,Giulietta Baptist,Consumer,East,13,5,555039,5,2,2,522,New / Promising
+GD-14590,Giulietta Dortch,Corporate,East,5,4,756977,5,1,3,513,New / Promising
+GG-14650,Greg Guthrie,Corporate,South,43,9,1244674,4,5,4,454,Champions
+GH-14410,Gary Hansen,Home Office,West,75,9,2371276,3,5,5,355,Loyal
+GH-14425,Gary Hwang,Consumer,West,50,4,4030970,4,1,5,415,New / Promising
+GH-14485,Gene Hale,Corporate,Central,387,2,1123914,1,1,4,114,Lost / Hibernating
+GH-14665,Greg Hansen,Consumer,Central,2,2,819788,5,1,3,513,New / Promising
+GK-14620,Grace Kelly,Corporate,West,112,9,4000913,2,5,5,255,At-Risk High Value
+GM-14440,Gary McGarr,Consumer,West,83,7,942148,3,4,3,343,Loyal
+GM-14455,Gary Mitchum,Home Office,Central,16,6,1481142,5,3,4,534,Loyal
+GM-14500,Gene McClure,Consumer,East,106,10,370046,2,5,2,252,At-Risk
+GM-14680,Greg Matthias,Consumer,West,152,6,960248,2,3,3,233,At-Risk
+GM-14695,Greg Maxwell,Corporate,West,117,3,2039899,2,1,5,215,Lost / Hibernating
+GP-14740,Guy Phonely,Corporate,East,764,2,14212,1,1,1,111,Lost / Hibernating
+GR-14560,Georgia Rosenberg,Corporate,West,1135,2,126413,1,1,1,111,Lost / Hibernating
+GT-14635,Grant Thornton,Corporate,South,56,3,1985108,3,1,4,314,Needs Attention
+GT-14710,Greg Tran,Consumer,Central,36,11,3880500,4,5,5,455,Champions
+GT-14755,Guy Thornton,Consumer,Central,34,4,132926,4,1,1,411,New / Promising
+GW-14605,Giulietta Weimer,Consumer,West,28,7,1325856,4,4,4,444,Champions
+GZ-14470,Gary Zandusky,Consumer,Central,7,9,502817,5,5,2,552,Needs Attention
+GZ-14545,George Zrebassa,Corporate,East,157,4,570256,2,1,2,212,Lost / Hibernating
+HA-14905,Helen Abelman,Consumer,East,69,7,1309713,3,4,4,344,Loyal
+HA-14920,Helen Andreada,Consumer,West,20,8,1456116,5,4,4,544,Champions
+HD-14785,Harold Dahlen,Home Office,East,768,3,64556,1,1,1,111,Lost / Hibernating
+HE-14800,Harold Engle,Corporate,Central,12,3,203636,5,1,1,511,New / Promising
+HF-14995,Herbert Flentye,Consumer,Central,21,7,1476105,5,4,4,544,Champions
+HG-14845,Harry Greene,Consumer,South,54,5,672876,3,2,3,323,Needs Attention
+HG-14965,Henry Goldwyn,Corporate,West,23,12,481915,5,5,2,552,Needs Attention
+HG-15025,Hunter Glantz,Consumer,Central,6,7,721454,5,4,3,543,Loyal
+HH-15010,Hilary Holden,Corporate,West,72,2,40963,3,1,1,311,Needs Attention
+HJ-14875,Heather Jas,Home Office,South,126,5,108683,2,2,1,221,Lost / Hibernating
+HK-14890,Heather Kirkland,Corporate,South,151,8,1055187,2,4,3,243,At-Risk
+HL-15040,Hunter Lopez,Consumer,Central,43,6,1297939,4,3,4,434,Loyal
+HM-14860,Harry Marie,Corporate,East,2,10,10803077,5,5,5,555,Champions
+HM-14980,Henry MacAllister,Consumer,East,247,4,157090,1,1,1,111,Lost / Hibernating
+HP-14815,Harold Pawlan,Home Office,Central,30,7,368577,4,4,2,442,Needs Attention
+HR-14770,Hallie Redmond,Home Office,West,13,4,254716,5,1,2,512,New / Promising
+HR-14830,Harold Ryan,Corporate,West,159,7,1145669,2,4,4,244,At-Risk High Value
+HW-14935,Helen Wasserman,Corporate,West,117,7,1348615,2,4,4,244,At-Risk High Value
+HZ-14950,Henia Zydlo,Consumer,East,35,5,197192,4,2,1,421,New / Promising
+IG-15085,Ivan Gibson,Consumer,West,71,4,75667,3,1,1,311,Needs Attention
+IL-15100,Ivan Liston,Consumer,West,142,7,645703,2,4,3,243,At-Risk
+IM-15055,Ionia McGrath,Consumer,West,409,2,4840,1,1,1,111,Lost / Hibernating
+IM-15070,Irene Maddox,Consumer,West,390,7,1046056,1,4,3,143,At-Risk
+JA-15970,Joseph Airdo,Consumer,West,92,8,5892022,3,4,5,345,Loyal
+JB-15400,Jennifer Braxton,Corporate,Central,7,10,948881,5,5,3,553,Loyal
+JB-15925,Joni Blumstein,Consumer,East,736,3,675318,1,1,3,113,Lost / Hibernating
+JB-16000,Joy Bell-,Consumer,Central,43,7,3309431,4,4,5,445,Champions
+JB-16045,Julia Barnett,Home Office,South,7,5,324590,5,2,2,522,New / Promising
+JC-15340,Jasper Cacioppo,Consumer,West,114,4,19261,2,1,1,211,Lost / Hibernating
+JC-15385,Jenna Caffey,Consumer,West,175,1,121712,2,1,1,211,Lost / Hibernating
+JC-15775,John Castell,Consumer,Central,158,9,2135197,2,5,5,255,At-Risk High Value
+JC-16105,Julie Creighton,Corporate,South,57,5,527412,3,2,2,322,Needs Attention
+JD-15790,John Dryer,Consumer,Central,117,5,1935380,2,2,4,224,Lost / Hibernating
+JD-15895,Jonathan Doherty,Corporate,East,394,11,1486355,1,5,4,154,At-Risk High Value
+JD-16015,Joy Daniels,Consumer,Central,112,6,137930,2,3,1,231,At-Risk
+JD-16060,Julia Dunbar,Consumer,West,300,3,165828,1,1,1,111,Lost / Hibernating
+JD-16150,Justin Deggeller,Corporate,Central,41,8,5833897,4,4,5,445,Champions
+JE-15475,Jeremy Ellison,Consumer,East,193,6,235827,2,3,1,231,At-Risk
+JE-15610,Jim Epp,Corporate,Central,48,7,3194847,4,4,5,445,Champions
+JE-15715,Joe Elijah,Consumer,West,46,10,5503680,4,5,5,455,Champions
+JE-15745,Joel Eaton,Consumer,South,51,13,2118507,4,5,5,455,Champions
+JE-16165,Justin Ellison,Corporate,Central,20,3,288560,5,1,2,512,New / Promising
+JF-15190,Jamie Frazer,Consumer,West,65,6,960508,3,3,3,333,Loyal
+JF-15295,Jason Fortune-,Consumer,West,225,5,518210,2,2,2,222,Lost / Hibernating
+JF-15355,Jay Fein,Consumer,Central,105,6,1402642,2,3,4,234,At-Risk
+JF-15415,Jennifer Ferguson,Consumer,East,2,5,420692,5,2,2,522,New / Promising
+JF-15490,Jeremy Farry,Consumer,West,121,10,637708,2,5,3,253,At-Risk
+JF-15565,Jill Fjeld,Consumer,Central,54,8,2387613,3,4,5,345,Loyal
+JG-15115,Jack Garza,Consumer,West,757,3,652330,1,1,3,113,Lost / Hibernating
+JG-15160,James Galang,Consumer,West,1,11,2280527,5,5,5,555,Champions
+JG-15310,Jason Gross,Corporate,East,2,6,757911,5,3,3,533,Loyal
+JG-15805,John Grady,Corporate,East,223,6,239233,2,3,1,231,At-Risk
+JH-15430,Jennifer Halladay,Consumer,South,5,4,168422,5,1,1,511,New / Promising
+JH-15820,John Huston,Consumer,East,174,6,243151,2,3,1,231,At-Risk
+JH-15910,Jonathan Howell,Consumer,West,41,7,669884,4,4,3,443,Loyal
+JH-15985,Joseph Holt,Consumer,Central,29,6,6612153,4,3,5,435,Loyal
+JH-16180,Justin Hirsh,Consumer,West,404,4,2256394,1,1,5,115,Lost / Hibernating
+JJ-15445,Jennifer Jackson,Consumer,West,483,5,105368,1,2,1,121,Lost / Hibernating
+JJ-15760,Joel Jenkins,Home Office,South,752,2,15342,1,1,1,111,Lost / Hibernating
+JK-15205,Jamie Kunitz,Consumer,West,61,4,692856,3,1,3,313,Needs Attention
+JK-15325,Jason Klamczynski,Corporate,Central,287,3,39850,1,1,1,111,Lost / Hibernating
+JK-15370,Jay Kimmel,Consumer,West,44,7,1684109,4,4,4,444,Champions
+JK-15625,Jim Karlsson,Consumer,West,61,7,1335707,3,4,4,344,Loyal
+JK-15640,Jim Kriz,Home Office,East,180,9,238483,2,5,1,251,At-Risk
+JK-15730,Joe Kamberova,Consumer,South,84,9,1818098,3,5,4,354,Loyal
+JK-16090,Juliana Krohn,Consumer,Central,28,3,710006,4,1,3,413,New / Promising
+JK-16120,Julie Kriz,Home Office,Central,117,10,756185,2,5,3,253,At-Risk
+JL-15130,Jack Lebron,Consumer,Central,8,6,1088416,5,3,3,533,Loyal
+JL-15175,James Lanier,Home Office,South,6,5,1442355,5,2,4,524,New / Promising
+JL-15235,Janet Lee,Consumer,Central,119,5,1716494,2,2,4,224,Lost / Hibernating
+JL-15505,Jeremy Lonsdale,Consumer,East,49,6,799611,4,3,3,433,Loyal
+JL-15835,John Lee,Consumer,West,21,10,5735413,5,5,5,555,Champions
+JL-15850,John Lucas,Consumer,East,614,6,1309268,1,3,4,134,At-Risk
+JM-15250,Janet Martin,Consumer,South,37,6,1343759,4,3,4,434,Loyal
+JM-15265,Janet Molinari,Corporate,East,37,5,333960,4,2,2,422,New / Promising
+JM-15535,Jessica Myrick,Consumer,East,102,7,614248,3,4,2,342,Needs Attention
+JM-15580,Jill Matthias,Consumer,South,0,5,213057,5,2,1,521,New / Promising
+JM-15655,Jim Mitchum,Corporate,East,8,5,638732,5,2,3,523,New / Promising
+JM-15865,John Murray,Consumer,East,109,7,1332429,2,4,4,244,At-Risk High Value
+JM-16195,Justin MacKendrick,Consumer,West,57,10,322170,3,5,2,352,Needs Attention
+JO-15145,Jack O'Briant,Corporate,East,57,9,1261044,3,5,4,354,Loyal
+JO-15280,Jas O'Carroll,Consumer,West,92,6,635194,3,3,2,332,Needs Attention
+JO-15550,Jesus Ocampo,Home Office,East,215,5,988121,2,2,3,223,Lost / Hibernating
+JP-15460,Jennifer Patt,Corporate,East,37,7,308407,4,4,2,442,Needs Attention
+JP-15520,Jeremy Pistek,Consumer,West,8,7,1199843,5,4,4,544,Champions
+JP-16135,Julie Prescott,Home Office,South,102,9,647429,3,5,3,353,Loyal
+JR-15670,Jim Radford,Consumer,East,593,2,646718,1,1,3,113,Lost / Hibernating
+JR-15700,Jocasta Rupert,Consumer,South,68,1,86388,3,1,1,311,Needs Attention
+JR-16210,Justin Ritter,Corporate,East,33,5,856033,4,2,3,423,New / Promising
+JS-15595,Jill Stevenson,Corporate,West,119,4,197965,2,1,1,211,Lost / Hibernating
+JS-15685,Jim Sink,Corporate,West,42,3,891241,4,1,3,413,New / Promising
+JS-15880,John Stevenson,Consumer,West,534,5,730692,1,2,3,123,Lost / Hibernating
+JS-15940,Joni Sundaresam,Home Office,Central,463,5,414989,1,2,2,122,Lost / Hibernating
+JS-16030,Joy Smith,Consumer,Central,28,6,889672,4,3,3,433,Loyal
+JW-15220,Jane Waco,Corporate,West,42,6,2330453,4,3,5,435,Loyal
+JW-15955,Joni Wasserman,Consumer,West,5,6,121077,5,3,1,531,Needs Attention
+JW-16075,Julia West,Consumer,East,461,4,476531,1,1,2,112,Lost / Hibernating
+KA-16525,Kelly Andreada,Consumer,West,36,7,604035,4,4,2,442,Needs Attention
+KB-16240,Karen Bern,Corporate,West,4,7,366890,5,4,2,542,Needs Attention
+KB-16315,Karl Braun,Consumer,Central,296,9,1251836,1,5,4,154,At-Risk High Value
+KB-16405,Katrina Bavinger,Home Office,West,117,3,337303,2,1,2,212,Lost / Hibernating
+KB-16585,Ken Black,Corporate,Central,230,12,1493274,1,5,4,154,At-Risk High Value
+KB-16600,Ken Brennan,Corporate,Central,1,7,90132,5,4,1,541,Needs Attention
+KC-16255,Karen Carlisle,Corporate,West,407,6,230702,1,3,1,131,At-Risk
+KC-16540,Kelly Collister,Consumer,West,97,4,485643,3,1,2,312,Needs Attention
+KC-16675,Kimberly Carter,Corporate,West,57,4,798245,3,1,3,313,Needs Attention
+KD-16270,Karen Daniels,Consumer,South,484,5,2035440,1,2,5,125,Lost / Hibernating
+KD-16345,Katherine Ducich,Consumer,West,41,6,966743,4,3,3,433,Loyal
+KD-16495,Keith Dawkins,Corporate,East,112,12,1738372,2,5,4,254,At-Risk High Value
+KD-16615,Ken Dana,Corporate,West,289,4,483735,1,2,2,122,Lost / Hibernating
+KE-16420,Katrina Edelman,Corporate,South,26,7,2602565,5,4,5,545,Champions
+KF-16285,Karen Ferguson,Home Office,West,97,7,7169857,3,4,5,345,Loyal
+KH-16330,Katharine Harms,Corporate,South,40,8,1741914,4,4,4,444,Champions
+KH-16360,Katherine Hughes,Consumer,East,1,6,1425379,5,3,4,534,Loyal
+KH-16510,Keith Herrera,Consumer,West,22,6,3843992,5,3,5,535,Loyal
+KH-16630,Ken Heidel,Corporate,Central,58,9,681351,3,5,3,353,Loyal
+KH-16690,Kristen Hastings,Corporate,West,2,7,861258,5,4,3,543,Loyal
+KL-16555,Kelly Lampkin,Corporate,West,16,8,3512957,5,4,5,545,Champions
+KL-16645,Ken Lonsdale,Consumer,Central,47,12,3566569,4,5,5,455,Champions
+KM-16225,Kalyca Meade,Corporate,East,14,6,224114,5,3,1,531,Needs Attention
+KM-16375,Katherine Murray,Home Office,South,56,8,2036476,3,4,5,345,Loyal
+KM-16660,Khloe Miller,Consumer,South,15,5,238132,5,2,1,521,New / Promising
+KM-16720,Kunst Miller,Consumer,West,28,8,2602880,4,4,5,445,Champions
+KN-16390,Katherine Nockton,Corporate,West,19,8,1624425,5,4,4,544,Champions
+KN-16450,Kean Nguyen,Corporate,South,52,5,1893376,4,2,4,424,New / Promising
+KN-16705,Kristina Nunn,Home Office,West,98,7,324609,3,4,2,342,Needs Attention
+KS-16300,Karen Seio,Corporate,West,295,3,79634,1,1,1,111,Lost / Hibernating
+KT-16465,Kean Takahito,Consumer,West,391,7,1488787,1,4,4,144,At-Risk High Value
+KT-16480,Kean Thornton,Consumer,East,100,10,3768075,3,5,5,355,Loyal
+KW-16435,Katrina Willman,Consumer,East,96,5,603625,3,2,2,322,Needs Attention
+KW-16570,Kelly Williams,Consumer,South,770,4,95063,1,2,1,121,Lost / Hibernating
+LA-16780,Laura Armstrong,Corporate,Central,154,11,1917966,2,5,4,254,At-Risk High Value
+LB-16735,Larry Blacks,Consumer,Central,48,3,6808,4,1,1,411,New / Promising
+LB-16795,Laurel Beltran,Home Office,Central,152,8,1670571,2,4,4,244,At-Risk High Value
+LC-16870,Lena Cacioppo,Consumer,West,27,8,995246,4,4,3,443,Loyal
+LC-16885,Lena Creighton,Consumer,West,16,12,6519703,5,5,5,555,Champions
+LC-16930,Linda Cazamias,Corporate,Central,41,8,2037827,4,4,5,445,Champions
+LC-16960,Lindsay Castell,Home Office,South,436,4,3130571,1,2,5,125,Lost / Hibernating
+LC-17050,Liz Carlisle,Consumer,West,54,5,941624,3,2,3,323,Needs Attention
+LC-17140,Logan Currie,Consumer,Central,13,9,642449,5,5,3,553,Loyal
+LD-16855,Lela Donovan,Corporate,Central,552,1,5304,1,1,1,111,Lost / Hibernating
+LD-17005,Lisa DeCherney,Consumer,West,414,4,246318,1,2,2,122,Lost / Hibernating
+LE-16810,Laurel Elliston,Consumer,West,21,6,729875,5,3,3,533,Loyal
+LF-17185,Luke Foster,Consumer,South,22,7,3095669,5,4,5,545,Champions
+LH-16750,Larry Hughes,Consumer,South,151,3,36749,2,1,1,211,Lost / Hibernating
+LH-16900,Lena Hernandez,Consumer,East,21,9,723410,5,5,3,553,Loyal
+LH-17020,Lisa Hazard,Consumer,East,239,4,264662,1,2,2,122,Lost / Hibernating
+LH-17155,Logan Haushalter,Consumer,West,385,9,745180,1,5,3,153,At-Risk
+LL-16840,Lauren Leatherbury,Consumer,East,249,5,311465,1,2,2,122,Lost / Hibernating
+LM-17065,Liz MacKendrick,Consumer,East,391,5,703193,1,2,3,123,Lost / Hibernating
+LO-17170,Lori Olson,Corporate,West,2,5,170950,5,2,1,521,New / Promising
+LP-17080,Liz Pelletier,Consumer,West,40,4,609141,4,2,2,422,New / Promising
+LP-17095,Liz Preis,Consumer,South,9,6,2321511,5,3,5,535,Loyal
+LR-16915,Lena Radford,Consumer,West,26,6,3503335,5,3,5,535,Loyal
+LR-17035,Lisa Ryan,Corporate,East,132,5,1403170,2,2,4,224,Lost / Hibernating
+LS-16945,Linda Southworth,Corporate,East,178,6,2450044,2,3,5,235,At-Risk
+LS-16975,Lindsay Shagiari,Home Office,West,20,9,809504,5,5,3,553,Loyal
+LS-17200,Luke Schmidt,Corporate,Central,96,6,192003,3,3,1,331,Needs Attention
+LS-17230,Lycoris Saunders,Consumer,East,776,3,264894,1,1,2,112,Lost / Hibernating
+LS-17245,Lynn Smith,Consumer,Central,34,6,328681,4,3,2,432,Needs Attention
+LT-16765,Larry Tron,Consumer,West,26,3,281330,5,1,2,512,New / Promising
+LT-17110,Liz Thompson,Consumer,West,34,8,1889714,4,4,4,444,Champions
+LW-16825,Laurel Workman,Corporate,South,88,5,271561,3,2,2,322,Needs Attention
+LW-16990,Lindsay Williams,Corporate,West,33,6,981982,4,3,3,433,Loyal
+LW-17125,Liz Willingham,Consumer,East,205,3,57792,2,1,1,211,Lost / Hibernating
+LW-17215,Luke Weiss,Consumer,West,21,7,4237518,5,4,5,545,Champions
+MA-17560,Matt Abelman,Home Office,Central,64,11,2344937,3,5,5,355,Loyal
+MA-17995,Michelle Arnett,Home Office,East,186,6,1837756,2,3,4,234,At-Risk
+MB-17305,Maria Bertelson,Consumer,East,48,10,1089090,4,5,3,453,Loyal
+MB-18085,Mick Brown,Consumer,East,44,7,1035885,4,4,3,443,Loyal
+MC-17275,Marc Crier,Consumer,South,76,8,454040,3,4,2,342,Needs Attention
+MC-17425,Mark Cousins,Corporate,South,399,5,798829,1,2,3,123,Lost / Hibernating
+MC-17575,Matt Collins,Consumer,East,27,8,722781,4,4,3,443,Loyal
+MC-17590,Matt Collister,Corporate,East,51,6,1364832,4,3,4,434,Loyal
+MC-17605,Matt Connell,Corporate,Central,112,8,1471619,2,4,4,244,At-Risk High Value
+MC-17635,Matthew Clasen,Corporate,Central,189,4,281578,2,2,2,222,Lost / Hibernating
+MC-17845,Michael Chen,Consumer,South,1,7,937756,5,4,3,543,Loyal
+MC-18100,Mick Crebagga,Consumer,Central,41,10,470334,4,5,2,452,Needs Attention
+MC-18130,Mike Caudle,Corporate,South,369,5,1373135,1,2,4,124,Lost / Hibernating
+MD-17350,Maribeth Dona,Consumer,South,117,6,2541758,2,3,5,235,At-Risk
+MD-17860,Michael Dominguez,Corporate,Central,36,5,160883,4,2,1,421,New / Promising
+ME-17320,Maria Etezadi,Home Office,South,42,10,5499744,4,5,5,455,Champions
+ME-17725,Max Engle,Consumer,West,28,8,4718489,4,4,5,445,Champions
+ME-18010,Michelle Ellison,Corporate,West,92,4,1158736,3,2,4,324,Needs Attention
+MF-17665,Maureen Fritzler,Corporate,East,421,5,649102,1,2,3,123,Lost / Hibernating
+MF-18250,Monica Federle,Corporate,West,7,5,543174,5,2,2,522,New / Promising
+MG-17650,Matthew Grinstein,Home Office,East,29,7,1901171,4,4,4,444,Champions
+MG-17680,Maureen Gastineau,Home Office,East,92,4,2024622,3,2,5,325,Needs Attention
+MG-17695,Maureen Gnade,Consumer,East,555,3,590629,1,1,2,112,Lost / Hibernating
+MG-17875,Michael Grace,Home Office,East,116,5,980843,2,2,3,223,Lost / Hibernating
+MG-17890,Michael Granlund,Home Office,East,99,9,346967,3,5,2,352,Needs Attention
+MG-18145,Mike Gockenbach,Consumer,East,84,4,1985296,3,2,5,325,Needs Attention
+MG-18205,Mitch Gastineau,Corporate,South,264,1,5651,1,1,1,111,Lost / Hibernating
+MH-17290,Marc Harrigan,Home Office,West,294,5,911412,1,2,3,123,Lost / Hibernating
+MH-17440,Mark Haberlin,Corporate,East,376,4,63029,1,2,1,121,Lost / Hibernating
+MH-17455,Mark Hamilton,Consumer,South,170,7,593807,2,4,2,242,At-Risk
+MH-17620,Matt Hagelstein,Corporate,West,155,4,37296,2,2,1,221,Lost / Hibernating
+MH-17785,Maya Herman,Corporate,East,98,7,288659,3,4,2,342,Needs Attention
+MH-18025,Michelle Huthwaite,Consumer,West,49,5,799568,4,2,3,423,New / Promising
+MH-18115,Mick Hernandez,Home Office,East,5,9,2729158,5,5,5,555,Champions
+MJ-17740,Max Jones,Consumer,West,22,7,472339,5,4,2,542,Needs Attention
+MK-17905,Michael Kennedy,Corporate,East,28,8,789621,4,4,3,443,Loyal
+MK-18160,Mike Kennedy,Consumer,South,240,4,82273,1,2,1,121,Lost / Hibernating
+ML-17395,Marina Lichtenstein,Corporate,West,69,9,787330,3,5,3,353,Loyal
+ML-17410,Maris LaWare,Consumer,East,54,5,817798,3,2,3,323,Needs Attention
+ML-17755,Max Ludwig,Home Office,South,29,7,1192803,4,4,4,444,Champions
+ML-18040,Michelle Lonsdale,Corporate,West,79,3,87188,3,1,1,311,Needs Attention
+ML-18265,Muhammed Lee,Consumer,West,100,2,25468,3,1,1,311,Needs Attention
+MM-17260,Magdelene Morse,Consumer,East,168,4,1112216,2,2,3,223,Lost / Hibernating
+MM-17920,Michael Moore,Consumer,West,7,10,1390634,5,5,4,554,Champions
+MM-18055,Michelle Moray,Consumer,West,61,8,2317881,3,4,5,345,Loyal
+MM-18280,Muhammed MacIntyre,Corporate,Central,85,9,640792,3,5,3,353,Loyal
+MN-17935,Michael Nguyen,Consumer,Central,34,6,1433100,4,3,4,434,Loyal
+MO-17500,Mary O'Rourke,Consumer,East,72,4,893813,3,2,3,323,Needs Attention
+MO-17800,Meg O'Connel,Home Office,East,104,8,731119,3,4,3,343,Loyal
+MO-17950,Michael Oakman,Consumer,Central,180,2,85204,2,1,1,211,Lost / Hibernating
+MP-17470,Mark Packer,Home Office,East,718,6,2037632,1,3,5,135,At-Risk
+MP-17965,Michael Paige,Corporate,East,72,9,916406,3,5,3,353,Loyal
+MP-18175,Mike Pelletier,Home Office,West,16,8,1524442,5,4,4,544,Champions
+MR-17545,Mathew Reese,Home Office,East,125,4,97225,2,2,1,221,Lost / Hibernating
+MS-17365,Maribeth Schnelling,Consumer,Central,273,10,4432686,1,5,5,155,At-Risk High Value
+MS-17530,MaryBeth Skach,Consumer,West,434,4,66822,1,2,1,121,Lost / Hibernating
+MS-17710,Maurice Satty,Consumer,West,413,6,696356,1,3,3,133,At-Risk
+MS-17770,Maxwell Schwartz,Consumer,East,121,9,1293513,2,5,4,254,At-Risk High Value
+MS-17830,Melanie Seite,Consumer,Central,452,4,267532,1,2,2,122,Lost / Hibernating
+MS-17980,Michael Stewart,Corporate,Central,26,6,411299,5,3,2,532,Needs Attention
+MT-17815,Meg Tillman,Consumer,West,49,6,269420,4,3,2,432,Needs Attention
+MT-18070,Michelle Tran,Home Office,West,203,4,3603423,2,2,5,225,Lost / Hibernating
+MV-17485,Mark Van Huff,Consumer,South,27,9,912527,4,5,3,453,Loyal
+MV-18190,Mike Vittorini,Consumer,East,19,7,1164667,5,4,4,544,Champions
+MW-18220,Mitch Webber,Consumer,East,17,7,2759341,5,4,5,545,Champions
+MW-18235,Mitch Willingham,Corporate,South,44,2,2253366,4,1,5,415,New / Promising
+MY-17380,Maribeth Yedwab,Corporate,West,29,7,1254970,4,4,4,444,Champions
+MY-18295,Muhammed Yedwab,Corporate,Central,71,10,2056796,3,5,5,355,Loyal
+MZ-17335,Maria Zettner,Home Office,West,30,4,212744,4,2,1,421,New / Promising
+MZ-17515,Mary Zewe,Corporate,West,282,6,2126633,1,3,5,135,At-Risk
+NB-18580,Nicole Brennan,Corporate,East,1165,2,156944,1,1,1,111,Lost / Hibernating
+NB-18655,Nona Balk,Corporate,Central,19,9,1545243,5,5,4,554,Champions
+NC-18340,Nat Carroll,Consumer,Central,224,5,824700,2,2,3,223,Lost / Hibernating
+NC-18415,Nathan Cano,Consumer,South,41,6,2091694,4,3,5,435,Loyal
+NC-18535,Nick Crebassa,Corporate,Central,6,7,6435997,5,4,5,545,Champions
+NC-18625,Noah Childs,Corporate,West,204,5,425815,2,2,2,222,Lost / Hibernating
+ND-18370,Natalie DeCherney,Consumer,South,27,9,1299448,4,5,4,454,Champions
+ND-18460,Neil Ducich,Corporate,South,183,6,354384,2,3,2,232,At-Risk
+NF-18385,Natalie Fritzler,Consumer,South,79,6,3967141,3,3,5,335,Loyal
+NF-18475,Neil Französisch,Home Office,Central,525,4,129941,1,2,1,121,Lost / Hibernating
+NF-18595,Nicole Fjeld,Home Office,East,114,7,1230733,2,4,4,244,At-Risk High Value
+NG-18355,Nat Gilpin,Corporate,East,48,5,718057,4,2,3,423,New / Promising
+NG-18430,Nathan Gelder,Consumer,East,48,5,857189,4,2,3,423,New / Promising
+NH-18610,Nicole Hansen,Corporate,Central,189,6,203884,2,3,1,231,At-Risk
+NK-18490,Neil Knudson,Home Office,West,70,7,166319,3,4,1,341,Needs Attention
+NL-18310,Nancy Lomonaco,Home Office,West,58,4,775265,3,2,3,323,Needs Attention
+NM-18445,Nathan Mautz,Home Office,East,160,7,745676,2,4,3,243,At-Risk
+NM-18520,Neoma Murray,Consumer,West,244,10,261800,1,5,2,152,At-Risk
+NP-18325,Naresj Patel,Consumer,South,25,6,2287361,5,3,5,535,Loyal
+NP-18670,Nora Paige,Consumer,Central,58,5,233675,3,2,1,321,Needs Attention
+NP-18685,Nora Pelletier,Home Office,East,406,5,229297,1,2,1,121,Lost / Hibernating
+NP-18700,Nora Preis,Consumer,West,138,7,7957259,2,4,5,245,At-Risk High Value
+NR-18550,Nick Radford,Consumer,Central,210,5,1241359,2,2,4,224,Lost / Hibernating
+NS-18505,Neola Schneider,Consumer,Central,6,4,1643247,5,2,4,524,New / Promising
+NS-18640,Noel Staavos,Corporate,Central,174,12,865756,2,5,3,253,At-Risk
+NW-18400,Natalie Webber,Consumer,West,172,7,4338750,2,4,5,245,At-Risk High Value
+NZ-18565,Nick Zandusky,Home Office,East,85,9,1197098,3,5,4,354,Loyal
+ON-18715,Odella Nelson,Corporate,Central,410,9,882422,1,5,3,153,At-Risk
+OT-18730,Olvera Toch,Consumer,West,65,5,1609871,3,2,4,324,Needs Attention
+PA-19060,Pete Armstrong,Home Office,Central,103,6,240096,3,3,1,331,Needs Attention
+PB-18805,Patrick Bzostek,Home Office,West,25,3,263275,5,1,2,512,New / Promising
+PB-19105,Peter Bühler,Consumer,Central,57,4,660514,3,2,3,323,Needs Attention
+PB-19150,Philip Brown,Consumer,West,97,8,219099,3,4,1,341,Needs Attention
+PB-19210,Phillip Breyer,Corporate,Central,687,2,69801,1,1,1,111,Lost / Hibernating
+PC-18745,Pamela Coakley,Corporate,West,2,4,1663422,5,2,4,524,New / Promising
+PC-19000,Pauline Chand,Home Office,West,881,2,1055440,1,1,3,113,Lost / Hibernating
+PF-19120,Peter Fuller,Consumer,West,834,4,6026246,1,2,5,125,Lost / Hibernating
+PF-19165,Philip Fox,Consumer,Central,196,6,206179,2,3,1,231,At-Risk
+PF-19225,Phillip Flathmann,Consumer,West,114,5,836688,2,2,3,223,Lost / Hibernating
+PG-18820,Patrick Gardner,Consumer,West,36,13,1284360,4,5,4,454,Champions
+PG-18895,Paul Gonzalez,Consumer,Central,57,9,950076,3,5,3,353,Loyal
+PH-18790,Patricia Hirasaki,Home Office,South,70,1,729648,3,1,3,313,Needs Attention
+PJ-18835,Patrick Jones,Corporate,South,39,8,248495,4,4,2,442,Needs Attention
+PJ-19015,Pauline Johnson,Consumer,West,134,6,180692,2,3,1,231,At-Risk
+PK-18910,Paul Knutson,Home Office,East,483,2,395118,1,1,2,112,Lost / Hibernating
+PK-19075,Pete Kriz,Consumer,Central,9,12,6393289,5,5,5,555,Champions
+PL-18925,Paul Lucas,Home Office,Central,15,5,138978,5,2,1,521,New / Promising
+PM-18940,Paul MacIntyre,Consumer,Central,386,3,407896,1,1,2,112,Lost / Hibernating
+PM-19135,Peter McVee,Home Office,Central,51,4,2030056,4,2,5,425,New / Promising
+PN-18775,Parhena Norris,Home Office,East,30,8,725723,4,4,3,443,Loyal
+PO-18850,Patrick O'Brill,Consumer,East,4,11,12682247,5,5,5,555,Champions
+PO-18865,Patrick O'Donnell,Consumer,Central,0,7,1087333,5,4,3,543,Loyal
+PO-19180,Philisse Overcash,Home Office,Central,160,9,1893685,2,5,4,254,At-Risk High Value
+PO-19195,Phillina Ober,Home Office,Central,86,5,743775,3,2,3,323,Needs Attention
+PP-18955,Paul Prost,Home Office,South,97,10,1233273,3,5,4,354,Loyal
+PR-18880,Patrick Ryan,Consumer,West,36,5,1410473,4,2,4,424,New / Promising
+PS-18760,Pamela Stobb,Consumer,West,107,6,753566,2,3,3,233,At-Risk
+PS-18970,Paul Stevenson,Home Office,Central,69,8,519165,3,4,2,342,Needs Attention
+PS-19045,Penelope Sewall,Home Office,South,236,7,4011793,1,4,5,145,At-Risk High Value
+PT-19090,Pete Takahito,Consumer,Central,71,3,153798,3,1,1,311,Needs Attention
+PV-18985,Paul Van Hugh,Home Office,West,89,5,786354,3,3,3,333,Loyal
+PW-19030,Pauline Webber,Corporate,South,46,10,473864,4,5,2,452,Needs Attention
+PW-19240,Pierre Wener,Consumer,West,464,7,1120706,1,4,4,144,At-Risk High Value
+QJ-19255,Quincy Jones,Corporate,Central,25,9,353072,5,5,2,552,Needs Attention
+RA-19285,Ralph Arnett,Consumer,East,5,9,976891,5,5,3,553,Loyal
+RA-19885,Ruben Ausman,Corporate,West,55,6,1168037,3,3,4,334,Loyal
+RA-19915,Russell Applegate,Consumer,Central,12,9,3169358,5,5,5,555,Champions
+RA-19945,Ryan Akin,Consumer,West,61,5,2817264,3,3,5,335,Loyal
+RB-19330,Randy Bradley,Consumer,East,68,2,349063,3,1,2,312,Needs Attention
+RB-19360,Raymond Buch,Consumer,East,96,6,1632000,3,3,4,334,Loyal
+RB-19435,Richard Bierner,Consumer,Central,41,7,976963,4,4,3,443,Loyal
+RB-19465,Rick Bensley,Home Office,Central,9,12,1371939,5,5,4,554,Champions
+RB-19570,Rob Beeghly,Consumer,Central,25,5,316974,5,3,2,532,Needs Attention
+RB-19645,Robert Barroso,Corporate,West,648,5,141110,1,3,1,131,At-Risk
+RB-19705,Roger Barcio,Home Office,West,54,4,459411,3,2,2,322,Needs Attention
+RB-19795,Ross Baird,Home Office,South,32,8,3096522,4,4,5,445,Champions
+RC-19825,Roy Collins,Consumer,Central,369,6,727207,1,3,3,133,At-Risk
+RC-19960,Ryan Crowe,Consumer,East,110,4,319482,2,2,2,222,Lost / Hibernating
+RD-19480,Rick Duston,Consumer,West,72,8,1759176,3,4,4,344,Loyal
+RD-19585,Rob Dowd,Consumer,South,180,9,860662,2,5,3,253,At-Risk
+RD-19660,Robert Dilbeck,Home Office,Central,114,4,683434,2,2,3,223,Lost / Hibernating
+RD-19720,Roger Demir,Consumer,South,21,10,793166,5,5,3,553,Loyal
+RD-19810,Ross DeVincentis,Home Office,West,14,8,205162,5,4,1,541,Needs Attention
+RD-19900,Ruben Dartt,Consumer,West,114,9,1926601,2,5,4,254,At-Risk High Value
+RD-19930,Russell D'Ascenzo,Consumer,Central,42,4,409378,4,2,2,422,New / Promising
+RE-19405,Ricardo Emerson,Consumer,East,1097,1,4836,1,1,1,111,Lost / Hibernating
+RE-19450,Richard Eichhorn,Consumer,Central,302,4,45061,1,2,1,121,Lost / Hibernating
+RF-19345,Randy Ferguson,Corporate,East,390,8,252264,1,4,2,142,At-Risk
+RF-19735,Roland Fjeld,Consumer,Central,89,7,544167,3,4,2,342,Needs Attention
+RF-19840,Roy Französisch,Consumer,East,6,7,129231,5,4,1,541,Needs Attention
+RH-19495,Rick Hansen,Consumer,Central,32,5,1442395,4,3,4,434,Loyal
+RH-19510,Rick Huthwaite,Home Office,East,467,6,391738,1,3,2,132,At-Risk
+RH-19555,Ritsa Hightower,Consumer,South,519,2,106098,1,1,1,111,Lost / Hibernating
+RH-19600,Rob Haberlin,Consumer,South,534,3,1290149,1,1,4,114,Lost / Hibernating
+RK-19300,Ralph Kennedy,Consumer,East,119,3,67082,2,1,1,211,Lost / Hibernating
+RL-19615,Rob Lucas,Consumer,South,121,8,3135049,2,4,5,245,At-Risk High Value
+RM-19375,Raymond Messe,Consumer,Central,345,6,153658,1,3,1,131,At-Risk
+RM-19675,Robert Marley,Home Office,South,6,5,3074940,5,3,5,535,Loyal
+RM-19750,Roland Murray,Consumer,East,299,1,9835,1,1,1,111,Lost / Hibernating
+RO-19780,Rose O'Brian,Consumer,South,35,7,2499345,4,4,5,445,Champions
+RP-19270,Rachel Payne,Corporate,West,496,4,3928139,1,2,5,125,Lost / Hibernating
+RP-19390,Resi Pölking,Consumer,East,33,12,1850462,4,5,4,454,Champions
+RP-19855,Roy Phan,Corporate,Central,28,7,337301,4,4,2,442,Needs Attention
+RR-19315,Ralph Ritter,Consumer,West,19,2,539342,5,1,2,512,New / Promising
+RR-19525,Rick Reed,Corporate,East,170,6,637101,2,3,3,233,At-Risk
+RS-19420,Ricardo Sperren,Corporate,West,76,5,322129,3,3,2,332,Needs Attention
+RS-19765,Roland Schwarz,Corporate,East,36,8,529548,4,4,2,442,Needs Attention
+RS-19870,Roy Skaria,Home Office,Central,19,2,10430,5,1,1,511,New / Promising
+RW-19540,Rick Wilson,Corporate,West,120,7,1713046,2,4,4,244,At-Risk High Value
+RW-19630,Rob Williams,Corporate,Central,89,9,1489799,3,5,4,354,Loyal
+RW-19690,Robert Waldorf,Consumer,South,79,5,344647,3,3,2,332,Needs Attention
+SA-20830,Sue Ann Reed,Consumer,Central,63,10,4902220,3,5,5,355,Loyal
+SB-20170,Sarah Bern,Consumer,East,201,3,149391,2,1,1,211,Lost / Hibernating
+SB-20185,Sarah Brown,Consumer,East,188,6,3060710,2,3,5,235,At-Risk
+SB-20290,Sean Braxton,Corporate,Central,47,7,6689360,4,4,5,445,Champions
+SC-20020,Sam Craven,Consumer,Central,780,5,3586160,1,3,5,135,At-Risk
+SC-20050,Sample Company A,Home Office,East,40,9,1763301,4,5,4,454,Champions
+SC-20095,Sanjit Chand,Consumer,West,349,9,1823170,1,5,4,154,At-Risk High Value
+SC-20230,Scot Coram,Corporate,Central,149,4,3118591,2,2,5,225,Lost / Hibernating
+SC-20260,Scott Cohen,Corporate,West,187,8,2092333,2,4,5,245,At-Risk High Value
+SC-20305,Sean Christensen,Consumer,Central,29,6,768475,4,3,3,433,Loyal
+SC-20380,Shahid Collister,Consumer,West,30,9,2925876,4,5,5,455,Champions
+SC-20440,Shaun Chance,Corporate,West,36,7,767593,4,4,3,443,Loyal
+SC-20575,Sonia Cooley,Consumer,Central,92,4,118534,3,2,1,321,Needs Attention
+SC-20680,Steve Carroll,Home Office,South,126,6,125464,2,3,1,231,At-Risk
+SC-20695,Steve Chapman,Corporate,South,89,10,307823,3,5,2,352,Needs Attention
+SC-20725,Steven Cartwright,Consumer,East,187,11,1175571,2,5,4,254,At-Risk High Value
+SC-20770,Stewart Carmichael,Corporate,South,41,7,1230616,4,4,4,444,Champions
+SC-20800,Stuart Calhoun,Consumer,Central,30,4,209785,4,2,1,421,New / Promising
+SC-20845,Sung Chung,Consumer,Central,414,1,14112,1,1,1,111,Lost / Hibernating
+SD-20485,Shirley Daniels,Home Office,East,200,9,1709404,2,5,4,254,At-Risk High Value
+SE-20110,Sanjit Engle,Consumer,East,9,11,2501525,5,5,5,555,Champions
+SF-20065,Sandra Flanagan,Consumer,East,59,7,132025,3,4,1,341,Needs Attention
+SF-20200,Sarah Foster,Consumer,West,59,9,684464,3,5,3,353,Loyal
+SF-20965,Sylvia Foulston,Corporate,Central,48,9,582265,4,5,2,452,Needs Attention
+SG-20080,Sandra Glassco,Consumer,Central,8,3,1370574,5,1,4,514,New / Promising
+SG-20470,Sheri Gordon,Consumer,East,183,8,470880,2,4,2,242,At-Risk
+SG-20605,Speros Goranitis,Consumer,East,108,5,697874,2,3,3,233,At-Risk
+SG-20890,Susan Gilcrest,Corporate,Central,226,3,37551,2,1,1,211,Lost / Hibernating
+SH-19975,Sally Hughsby,Corporate,West,29,12,5211132,4,5,5,455,Champions
+SH-20395,Shahid Hopkins,Consumer,South,23,10,1635183,5,5,4,554,Champions
+SH-20635,Stefanie Holloman,Corporate,South,764,2,832864,1,1,3,113,Lost / Hibernating
+SJ-20125,Sanjit Jacobs,Home Office,East,95,12,1784571,3,5,4,354,Loyal
+SJ-20215,Sarah Jordon,Consumer,Central,29,6,912618,4,3,3,433,Loyal
+SJ-20500,Shirley Jackson,Consumer,Central,253,5,209238,1,3,1,131,At-Risk
+SK-19990,Sally Knutson,Consumer,East,8,3,656780,5,1,3,513,New / Promising
+SL-20155,Sara Luxemburg,Home Office,South,70,6,405050,3,3,2,332,Needs Attention
+SM-20005,Sally Matthias,Consumer,East,421,4,211023,1,2,1,121,Lost / Hibernating
+SM-20320,Sean Miller,Home Office,South,79,5,3372562,3,3,5,335,Loyal
+SM-20905,Susan MacKendrick,Consumer,East,606,1,741703,1,1,3,113,Lost / Hibernating
+SM-20950,Suzanne McNair,Corporate,South,25,11,2760991,5,5,5,555,Champions
+SN-20560,Skye Norling,Home Office,West,111,6,873901,2,3,3,233,At-Risk
+SN-20710,Steve Nguyen,Home Office,Central,79,7,6723974,3,4,5,345,Loyal
+SO-20335,Sean O'Donnell,Consumer,South,29,6,10279823,4,3,5,435,Loyal
+SP-20545,Sibella Parks,Corporate,East,327,6,630735,1,3,2,132,At-Risk
+SP-20620,Stefania Perrino,Corporate,East,47,9,4648202,4,5,5,455,Champions
+SP-20650,Stephanie Phelps,Corporate,West,386,9,922153,1,5,3,153,At-Risk
+SP-20860,Sung Pak,Corporate,East,79,10,3032606,3,5,5,355,Loyal
+SP-20920,Susan Pistek,Consumer,West,70,6,3933485,3,3,5,335,Loyal
+SR-20425,Sharelle Roach,Home Office,West,8,5,2794443,5,3,5,535,Loyal
+SR-20740,Steven Roelle,Home Office,East,196,8,158708,2,4,1,241,At-Risk
+SS-20140,Saphhira Shifley,Corporate,East,15,8,179786,5,4,1,541,Needs Attention
+SS-20410,Shahid Shariari,Consumer,West,110,6,1755191,2,3,4,234,At-Risk
+SS-20515,Shirley Schmidt,Home Office,South,491,3,61340,1,1,1,111,Lost / Hibernating
+SS-20590,Sonia Sunley,Consumer,West,432,6,40148,1,3,1,131,At-Risk
+SS-20875,Sung Shariari,Consumer,Central,120,5,417130,2,3,2,232,At-Risk
+ST-20530,Shui Tom,Consumer,East,125,7,225035,2,4,1,241,At-Risk
+SU-20665,Stephanie Ulpright,Home Office,South,20,7,1647295,5,4,4,544,Champions
+SV-20365,Seth Vernon,Consumer,East,101,10,5660487,3,5,5,355,Loyal
+SV-20785,Stewart Visinsky,Consumer,West,320,9,2656629,1,5,5,155,At-Risk High Value
+SV-20815,Stuart Van,Corporate,Central,76,4,997553,3,2,3,323,Needs Attention
+SV-20935,Susan Vittorini,Consumer,East,2,8,551493,5,4,2,542,Needs Attention
+SW-20245,Scot Wooten,Consumer,West,81,7,689852,3,4,3,343,Loyal
+SW-20275,Scott Williamson,Consumer,South,30,6,176865,4,3,1,431,Needs Attention
+SW-20350,Sean Wendt,Home Office,Central,162,3,244801,2,1,2,212,Lost / Hibernating
+SW-20455,Shaun Weien,Consumer,South,162,6,2525199,2,3,5,235,At-Risk
+SW-20755,Steven Ward,Corporate,East,534,2,660524,1,1,3,113,Lost / Hibernating
+SZ-20035,Sam Zeldin,Home Office,West,35,11,1683795,4,5,4,454,Champions
+TA-21385,Tom Ashbrook,Home Office,East,69,4,11388497,3,2,5,325,Needs Attention
+TB-21055,Ted Butterfield,Consumer,East,119,4,363522,2,2,2,222,Lost / Hibernating
+TB-21175,Thomas Boland,Corporate,Central,58,4,596985,3,2,2,322,Needs Attention
+TB-21190,Thomas Brumley,Home Office,South,49,4,771408,4,2,3,423,New / Promising
+TB-21250,Tim Brockman,Consumer,East,349,7,795706,1,4,3,143,At-Risk
+TB-21280,Toby Braunhardt,Consumer,East,583,6,330806,1,3,2,132,At-Risk
+TB-21355,Todd Boyes,Corporate,East,146,5,196390,2,3,1,231,At-Risk
+TB-21400,Tom Boeckenhauer,Consumer,West,202,6,1045561,2,3,3,233,At-Risk
+TB-21520,Tracy Blumstein,Consumer,East,107,9,808617,2,5,3,253,At-Risk
+TB-21595,Troy Blackwell,Consumer,Central,285,4,536603,1,2,2,122,Lost / Hibernating
+TB-21625,Trudy Brown,Consumer,Central,30,9,1466478,4,5,4,454,Champions
+TC-20980,Tamara Chand,Corporate,West,399,5,1969336,1,3,4,134,At-Risk
+TC-21145,Theresa Coyne,Corporate,East,106,1,99560,2,1,1,211,Lost / Hibernating
+TC-21295,Toby Carlisle,Consumer,West,27,8,1173566,4,5,4,454,Champions
+TC-21475,Tony Chapman,Home Office,South,153,9,248424,2,5,2,252,At-Risk
+TC-21535,Tracy Collins,Home Office,South,4,7,164533,5,4,1,541,Needs Attention
+TD-20995,Tamara Dahlen,Consumer,East,37,9,1249283,4,5,4,454,Champions
+TG-21310,Toby Gnade,Consumer,West,337,5,1636516,1,3,4,134,At-Risk
+TG-21640,Trudy Glocke,Consumer,West,114,4,1348919,2,2,4,224,Lost / Hibernating
+TH-21100,Thea Hendricks,Consumer,West,344,5,1780440,1,3,4,134,At-Risk
+TH-21115,Thea Hudgings,Corporate,East,58,4,1955400,3,2,4,324,Needs Attention
+TH-21235,Tiffany House,Corporate,Central,117,8,866339,2,5,3,253,At-Risk
+TH-21550,Tracy Hopkins,Home Office,East,72,7,2045593,3,4,5,345,Loyal
+TM-21010,Tamara Manning,Consumer,West,103,7,570160,3,4,2,342,Needs Attention
+TM-21490,Tony Molinari,Consumer,Central,130,3,298475,2,1,2,212,Lost / Hibernating
+TN-21040,Tanja Norvell,Home Office,West,90,7,1049061,3,4,3,343,Loyal
+TP-21130,Theone Pippenger,Consumer,East,8,9,460954,5,5,2,552,Needs Attention
+TP-21415,Tom Prescott,Consumer,West,104,5,6422539,3,3,5,335,Loyal
+TP-21565,Tracy Poddar,Corporate,West,350,4,1816112,1,2,4,124,Lost / Hibernating
+TR-21325,Toby Ritter,Consumer,East,193,5,51297,2,3,1,231,At-Risk
+TS-21085,Thais Sissman,Consumer,West,357,2,4833,1,1,1,111,Lost / Hibernating
+TS-21160,Theresa Swint,Corporate,East,504,6,1027023,1,3,3,133,At-Risk
+TS-21205,Thomas Seio,Corporate,East,198,7,3967513,2,4,5,245,At-Risk High Value
+TS-21340,Toby Swindell,Consumer,Central,226,5,244531,2,3,1,231,At-Risk
+TS-21370,Todd Sumrall,Corporate,East,36,6,3107067,4,3,5,435,Loyal
+TS-21430,Tom Stivers,Corporate,West,172,5,289060,2,3,2,232,At-Risk
+TS-21505,Tony Sayre,Consumer,South,11,6,974373,5,3,3,533,Loyal
+TS-21610,Troy Staebel,Consumer,West,55,7,1419628,3,4,4,344,Loyal
+TS-21655,Trudy Schmidt,Consumer,Central,238,5,1303674,1,3,4,134,At-Risk
+TT-21070,Ted Trevino,Consumer,West,31,7,3703338,4,4,5,445,Champions
+TT-21220,Thomas Thornton,Consumer,Central,183,8,830704,2,5,3,253,At-Risk
+TT-21265,Tim Taslimi,Corporate,West,406,3,14871,1,1,1,111,Lost / Hibernating
+TT-21460,Tonja Turnell,Home Office,Central,12,7,644425,5,4,3,543,Loyal
+TW-21025,Tamara Willingham,Home Office,West,64,7,1094717,3,4,3,343,Loyal
+TZ-21580,Tracy Zic,Consumer,West,35,4,676246,4,2,3,423,New / Promising
+VB-21745,Victoria Brennan,Corporate,South,54,6,345645,3,3,2,332,Needs Attention
+VD-21670,Valerie Dominguez,Consumer,South,581,6,1461501,1,3,4,134,At-Risk
+VF-21715,Vicky Freymann,Home Office,Central,13,5,748962,5,3,3,533,Loyal
+VG-21790,Vivek Gonzalez,Consumer,West,154,6,522217,2,3,2,232,At-Risk
+VG-21805,Vivek Grady,Corporate,South,491,4,388336,1,2,2,122,Lost / Hibernating
+VM-21685,Valerie Mitchum,Home Office,East,54,7,935081,3,4,3,343,Loyal
+VM-21835,Vivian Mathis,Consumer,East,117,5,78749,2,3,1,231,At-Risk
+VP-21730,Victor Preis,Home Office,West,30,3,165722,4,1,1,411,New / Promising
+VP-21760,Victoria Pisteka,Corporate,West,75,7,2586229,3,4,5,345,Loyal
+VS-21820,Vivek Sundaresam,Consumer,West,221,4,1046594,2,2,3,223,Lost / Hibernating
+VT-21700,Valerie Takahito,Home Office,East,999,2,1315810,1,1,4,114,Lost / Hibernating
+VW-21775,Victoria Wilson,Corporate,East,28,10,1237462,4,5,4,454,Champions
+WB-21850,William Brown,Consumer,East,20,10,3936779,5,5,5,555,Champions
+XP-21865,Xylona Preis,Consumer,West,43,11,1005065,4,5,3,453,Loyal
+YC-21895,Yoseph Carroll,Corporate,West,4,5,1920626,5,3,4,534,Loyal
+YS-21880,Yana Sorensen,Corporate,South,9,8,3561381,5,5,5,555,Champions
+ZC-21910,Zuschuss Carroll,Consumer,West,54,13,3383039,3,5,5,355,Loyal
+ZD-21925,Zuschuss Donatelli,Consumer,West,202,5,163780,2,3,1,231,At-Risk
